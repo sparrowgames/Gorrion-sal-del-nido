@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.barraNido"/>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.confirmacionScreen"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.BitmapFont.HAlignment"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Game"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.logrosScreen"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.SpriteBatch"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.TCKind"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Color"/>
+<fullyQualifiedTypeName name="com.google.android.gms.ads.AdView"/>
+<fullyQualifiedTypeName name="com.google.android.gms.ads.AdSize"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="com.google.android.gms.ads.AdRequest.Builder"/>
+<fullyQualifiedTypeName name="com.google.android.gms.ads.AdRequest"/>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.R.layout"/>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.R.id"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.widget.RelativeLayout"/>
+<fullyQualifiedTypeName name="android.view.Window"/>
+<fullyQualifiedTypeName name="android.view.WindowManager"/>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.Principal.IActivityRequestHandler"/>
+<fullyQualifiedTypeName name="android.os.Handler"/>
+<fullyQualifiedTypeName name="android.os.Message"/>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.IActivityRequestHandler"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.ui.Image"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Actor"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureRegion"/>
+<fullyQualifiedTypeName name="com.juanuxx.sparrowgames.cartelLogros"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.BitmapFont"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Circle"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.glutils.ShapeRenderer"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Rectangle"/>
+<fullyQualifiedTypeName name="sun.security.mscapi.KeyStore.MY"/>
+</qualifiedTypeNameHistroy>

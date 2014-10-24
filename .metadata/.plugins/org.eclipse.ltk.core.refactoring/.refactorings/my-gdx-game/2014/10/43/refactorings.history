@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.juanuxx.sparrowgames&apos; to &apos;com.sparrowgames.gorrion&apos;&#x0D;&#x0A;- Original project: &apos;my-gdx-game&apos;&#x0D;&#x0A;- Original element: &apos;my-gdx-game/src/com.juanuxx.sparrowgames&apos;&#x0D;&#x0A;- Renamed element: &apos;my-gdx-game/src/com.sparrowgames.gorrion&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.juanuxx.sparrowgames&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.juanuxx.sparrowgames" name="com.sparrowgames.gorrion" qualified="false" references="true" stamp="1414077852796" textual="false" version="1.0"/>
+</session>
